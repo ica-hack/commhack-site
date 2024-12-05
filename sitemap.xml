@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://hackingcommsci.org/commhack-site/about/</loc>
+        <lastmod>2024-12-05</lastmod>
+    </url>
+
+
+    <url>
+        <loc>https://hackingcommsci.org/commhack-site/contact/</loc>
+        <lastmod>2024-12-05</lastmod>
+    </url>
+
+
+    <url>
+        <loc>https://hackingcommsci.org/commhack-site/</loc>
+        <lastmod>2024-12-05</lastmod>
+    </url>
+
+
+    <url>
+        <loc>https://hackingcommsci.org/commhack-site/organizers/</loc>
+        <lastmod>2024-12-05</lastmod>
+    </url>
+
+
+    <url>
+        <loc>https://hackingcommsci.org/commhack-site/signup/</loc>
+        <lastmod>2024-12-05</lastmod>
+    </url>
+
+
+    <url>
+        <loc>https://hackingcommsci.org/commhack-site/sponsorship/</loc>
+        <lastmod>2024-12-05</lastmod>
+    </url>
+
+</urlset>

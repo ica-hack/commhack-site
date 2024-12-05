@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://hackingcommsci.org/commhack-site/about/</loc>
+        <loc>https://hackingcommsci.org/about/</loc>
         <lastmod>2024-12-05</lastmod>
     </url>
 
 
     <url>
-        <loc>https://hackingcommsci.org/commhack-site/contact/</loc>
+        <loc>https://hackingcommsci.org/contact/</loc>
         <lastmod>2024-12-05</lastmod>
     </url>
 
 
     <url>
-        <loc>https://hackingcommsci.org/commhack-site/</loc>
+        <loc>https://hackingcommsci.org/</loc>
         <lastmod>2024-12-05</lastmod>
     </url>
 
 
     <url>
-        <loc>https://hackingcommsci.org/commhack-site/organizers/</loc>
+        <loc>https://hackingcommsci.org/organizers/</loc>
         <lastmod>2024-12-05</lastmod>
     </url>
 
 
     <url>
-        <loc>https://hackingcommsci.org/commhack-site/signup/</loc>
+        <loc>https://hackingcommsci.org/signup/</loc>
         <lastmod>2024-12-05</lastmod>
     </url>
 
 
     <url>
-        <loc>https://hackingcommsci.org/commhack-site/sponsorship/</loc>
+        <loc>https://hackingcommsci.org/sponsorship/</loc>
         <lastmod>2024-12-05</lastmod>
     </url>
 
